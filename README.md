@@ -1,4 +1,4 @@
-# React Router Guards POC
+# React Router Guards + Route splitting POC
 
 
 1. `yarn install`
